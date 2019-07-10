@@ -6,4 +6,11 @@ The accuracy of the model increased by 14.72% by optimizing the model giving the
 
 ![image](https://user-images.githubusercontent.com/46936497/61008952-f989e180-a368-11e9-99ac-96a5a24abd81.png)
 
+![image](https://user-images.githubusercontent.com/46936497/61009007-276f2600-a369-11e9-9f3b-e391d1e8c7e3.png)
+
+![image](https://user-images.githubusercontent.com/46936497/61009028-3c4bb980-a369-11e9-92eb-fa38ddad1428.png)
+
+![image](https://user-images.githubusercontent.com/46936497/61009042-4bcb0280-a369-11e9-8dac-733fb2b98a7e.png)
+
+![image](https://user-images.githubusercontent.com/46936497/61009052-52597a00-a369-11e9-8de1-e7e93de5bfe6.png)
 
