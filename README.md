@@ -1,7 +1,7 @@
 # Machine-Learning-Projects
 
 ## Classification of Mushrooms using the Decision Tree algorithm:
-Predicting if the mushroom is Edible or Poisonous using Decision tree classification algorithm.
+Predicting if the mushroom is Edible or Poisonous using Decision tree classification algorithm. The code is implemented on both R and Python. 
 
 
 ## Sentiment analysis of employee reviews and building a prediction model using the results
