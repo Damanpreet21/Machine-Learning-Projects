@@ -4,6 +4,10 @@
 Predicting if the mushroom is Edible or Poisonous using Decision tree classification algorithm. The code is implemented on both R and Python. 
 Datset source:(https://www.kaggle.com/uciml/mushroom-classification)
 
+![image](https://user-images.githubusercontent.com/46936497/61010040-b29deb00-a36c-11e9-904e-60073e091237.png)
+
+![image](https://user-images.githubusercontent.com/46936497/61010055-c0537080-a36c-11e9-8cf1-ccc987d27774.png)
+
 ![image](https://user-images.githubusercontent.com/46936497/61009970-766a8a80-a36c-11e9-8156-f66bb959bbdb.png)
 
 
